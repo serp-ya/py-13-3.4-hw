@@ -12,4 +12,4 @@ def core(client_id):
 
 if __name__ == '__main__':
     core('9d452a0a0ec64c7c8f16c08bd83ea097')
-    # { TOKEN: AQAAAAANuCzYAATopD4eBv638Ekdo2RX5DI-hXI }
+    # { TOKEN: AQAAAAANuCzYAATopEPaH7-Ma0xMjVIr9SiEw3o }
